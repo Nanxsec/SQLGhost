@@ -1,0 +1,4 @@
+inurl:index.php?id=
+site:".ar" inurl:"item.php?id="
+site:".ar" inurl:"item.php?cat="
+inurl:".php?cat="
