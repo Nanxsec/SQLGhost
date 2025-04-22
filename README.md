@@ -6,10 +6,10 @@ Ferramenta de busca e detecção automatizada de possíveis vulnerabilidades de 
 
 ---
 
-### Wordlist:
+## Wordlist:
 
 - Ele tem uma wordlist pequena apenas para servir como guia de utilização. Você poderá alterar o conteúdo dessa wordlist adicionando suas próprias dorks!<br><br>
-- Quanto mais dorks adicionadas melhor será o resultado caso a dork seja boa!
+- Quanto mais dorks adicionadas **melhor será o resultado** caso a dork seja boa!
 
 ## Funcionalidades
 
