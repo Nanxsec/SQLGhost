@@ -1,4 +1,4 @@
-# SQLi Dork Scanner (Ultra Rápido com Trio + HTTPX)
+# SQLi Dork Scanner
 
 ![script](https://github.com/user-attachments/assets/1009dc8b-b353-4224-8675-63724aaa605f)
 
