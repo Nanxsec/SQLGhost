@@ -17,7 +17,7 @@ print("""\033[1;33m
       |_|\033[m instagram: \033[32m@nanoxsec\033[m
 """)
 
-dorks_path = "wordlists/dorks.txt"
+dorks_path = "wordlist/dorks.txt"
 output_path = "Resultado.json"
 
 user_agents = [
