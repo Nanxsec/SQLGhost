@@ -164,7 +164,7 @@ async def main():
             for d in dorks:
                 nursery.start_soon(run_search, d)
 
-    print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] \033[36m[*]\033[m Total de URLs encontradas: {len(all_urls)}")
+    print(f"\n[{datetime.datetime.now().strftime('%H:%M:%S')}] \033[36m[*]\033[m Total de URLs encontradas: {len(all_urls)}")
     print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] \033[36m[*]\033[m Testando possíveis vulnerabilidades SQLi...\n")
 
     async with httpx.AsyncClient(headers=headers, timeout=10, limits=limits, follow_redirects=True) as client:
