@@ -38,7 +38,9 @@ Ferramenta de busca e detecção automatizada de possíveis vulnerabilidades de 
 ## Como usar:
 
 ### Modo automático com wordlist (crie uma wordlist com inúmeras Dorks e deixe o script trabalhar)
+    pip install -r requirements.txt
     python3 scanner.py --alt
 
 ### Modo manual (1 dork por vez):
+    pip install -r requirements.txt
     python3 scanner.py
